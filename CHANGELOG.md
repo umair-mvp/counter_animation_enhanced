@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1
+
+- README: added a demo clip of the wheels rolling, so the motion is visible
+  before the package is added to a project.
+
 ## 1.0.0
 
 Initial release.

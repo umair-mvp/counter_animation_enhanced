@@ -2,6 +2,8 @@
 
 A number that counts itself up — and down — on rolling digit wheels.
 
+![AnimatedCounter rolling its digits as the value counts up](doc/demo.gif)
+
 `AnimatedCounter` puts every digit in a vertical column of ten faces. When the
 value changes, only the columns whose face actually changed turn; the rest hold
 perfectly still. So `1.00 → 1.01` rolls one wheel, `1.09 → 1.10` rolls two, and
@@ -161,12 +163,13 @@ formatCounter(shape, ',', '.', CounterGrouping.western); // 1,234,567.89
 
 The [`example`](https://github.com/umair-mvp/counter_animation_enhanced/tree/main/example)
 folder is a small app that counts a big number up from zero and shows the
-grouping, decimals, padding, sign and reduce-motion variants side by side.
+grouping, decimals, padding, sign and reduce-motion variants side by side. The
+clip above is that app running at the top of the page.
 
 ## Additional information
 
 - Source and issue tracker:
-  [github.com/umairxbt/counter_animation_enhanced](https://github.com/umair-mvp/counter_animation_enhanced)
+  [github.com/umair-mvp/counter_animation_enhanced](https://github.com/umair-mvp/counter_animation_enhanced)
 - Released under the [MIT license](LICENSE).
 - The wheel, mask-fade and spring design follows the well-known "animated
   counter" odometer pattern; this is an independent Flutter implementation of it.
