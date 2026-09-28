@@ -1,0 +1,22 @@
+name: counter_animation_enhanced_example
+description: "Showcases the AnimatedCounter from counter_animation_enhanced."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  counter_animation_enhanced:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
