@@ -159,14 +159,14 @@ formatCounter(shape, ',', '.', CounterGrouping.western); // 1,234,567.89
 
 ## Example
 
-The [`example`](https://github.com/umairxbt/counter_animation_enhanced/tree/main/example)
+The [`example`](https://github.com/umair-mvp/counter_animation_enhanced/tree/main/example)
 folder is a small app that counts a big number up from zero and shows the
 grouping, decimals, padding, sign and reduce-motion variants side by side.
 
 ## Additional information
 
 - Source and issue tracker:
-  [github.com/umairxbt/counter_animation_enhanced](https://github.com/umairxbt/counter_animation_enhanced)
+  [github.com/umairxbt/counter_animation_enhanced](https://github.com/umair-mvp/counter_animation_enhanced)
 - Released under the [MIT license](LICENSE).
 - The wheel, mask-fade and spring design follows the well-known "animated
   counter" odometer pattern; this is an independent Flutter implementation of it.
