@@ -2,7 +2,7 @@
 
 A number that counts itself up — and down — on rolling digit wheels.
 
-![AnimatedCounter rolling its digits as the value counts up](doc/demo.gif)
+![AnimatedCounter rolling its digits as the value counts up](https://github.com/umair-mvp/counter_animation_enhanced/raw/main/doc/demo.gif)
 
 `AnimatedCounter` puts every digit in a vertical column of ten faces. When the
 value changes, only the columns whose face actually changed turn; the rest hold
