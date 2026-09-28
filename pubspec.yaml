@@ -2,9 +2,9 @@ name: counter_animation_enhanced
 description: >-
   A rolling-digit counter for Flutter. Numbers count up and down on slot-machine
   wheels with spring motion, digit grouping, decimals and reduce-motion support.
-version: 1.0.0
-repository: https://github.com/umairxbt/counter_animation_enhanced
-issue_tracker: https://github.com/umairxbt/counter_animation_enhanced/issues
+version: 1.0.1
+repository: https://github.com/umair-mvp/counter_animation_enhanced
+issue_tracker: https://github.com/umair-mvp/counter_animation_enhanced
 topics:
   - counter
   - animation
